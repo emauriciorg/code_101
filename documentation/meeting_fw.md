@@ -12,7 +12,7 @@ Creating basic file dependency diagram
 
 ## About pull request
 * 6. Tedious pull request [see]( see)
-* 7. Good pull request [see](https://bitbucket.org/titoma/lac04-fw-pic32-app-controller/pull-requests/49/chore-added-vt-table-visualization-at-boot/diff#chg-inc/array_integrity.h)
+* 7. Good pull request [see](add pull request link)
 * 8. Declined pull reques [see](website)
 * 9. Premature Pull reques [see](see)
 
