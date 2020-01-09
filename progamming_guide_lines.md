@@ -14,3 +14,6 @@ Programming: Express the design in code
 
 Testing: Make sure that the system works  correctly under all circustances
 required by systematically trying out
+
+
+1.the calleee deals with errors
