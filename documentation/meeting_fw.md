@@ -2,7 +2,7 @@
 ## Documentation
 
 Creating basic file dependency diagram
-* 1. File dependy view with doxygen [see two pages](lac04)
+* 1. File dependy view with doxygen [see two pages]()
 * 2. Add doxygen Tags with scripts or plug-ins [see exampe](openexample)
 * 3. Use Related page to record bugs / to do list
 * 4. Using Issues tracker to document bugs, issues
